@@ -1,0 +1,10 @@
+.section{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    border-top: 10px solid #c52b2b;   
+    border-bottom: 10px solid #c52b2b;
+}
+
+.section1{
+    padding-top: 64px;
+}
